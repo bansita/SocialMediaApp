@@ -23,16 +23,20 @@ A full-featured social media platform built using the **MERN stack** (MongoDB, E
 1. Clone the repository:  
    ```bash
    git clone https://github.com/bansita/SocialMediaApp.git
-2.Navigate to the project directory:
-  cd SocialMediaApp
-3.Install dependencies:
-  npm install
-4.Start the backend server:
-  cd server
-  node index.js
-5.Start the frontend:
-  cd client
-  npm start
+2. Navigate to the project directory:
+   ```bash
+   cd SocialMediaApp
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the backend server:
+   ```bash
+   cd server
+   node index.js
+5. Start the frontend:
+   ```bash
+   cd client
+   npm start
   
 ##  Benefits of this Project
   >>Hands-on experience with full-stack development using MERN.
